@@ -1,5 +1,5 @@
-# Why?
-While working with pygame I found difficulties with positions and where to place my elemnts to be where I want, so I made this tool to make this job easier.
+# Purpose
+While working with pygame I found difficulties with positions and where to place elemnts to be where I want, so I made this tool to make this job easier.
 
 # How to use
 Run the exe file (Make sure Assets folder is in the same directory) and input the resolution of your project and the grid size to start the tool.
@@ -9,7 +9,7 @@ Run the exe file (Make sure Assets folder is in the same directory) and input th
 - C: Find center
 - Arrow keys: Precise movement (Default is 1 pixel)
 - Press X or Y to toogle X and Y axis locks respectively
-- Window resizing supported, new reoslution printed in console
+- Window resizing supported, new resolution is printed in console
 - Left Mouse Button: Toggle cursor
 
 # Advanced
