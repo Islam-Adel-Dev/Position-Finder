@@ -7,6 +7,13 @@
 
     You should have received a copy of the GNU General Public License along with Position Finder. If not, see <https://www.gnu.org/licenses/>. 
 '''
+print('''
+.-----------------------------------------------------------------------------------.
+| Welcome to Position Finder by Islam-Adel-Dev                                      |
+| You may find the source code at https://github.com/Islam-Adel-Dev/Position-Finder |
+| Make sure to read the LICENCE carefully                                           |
+'-----------------------------------------------------------------------------------'
+      ''')
 
 import pygame
 import sys
