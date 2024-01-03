@@ -1,5 +1,8 @@
 '''
-     This file is part of Position Finder.
+    Position Finder is a tool designed to make the process of finding coordination points easy.
+    Copyright © 2024 Islam Adel
+
+    This file is part of Position Finder.
 
     Position Finder is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
